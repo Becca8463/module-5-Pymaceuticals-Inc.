@@ -9,3 +9,5 @@ Three observations that can be made from this statistical data are :
 2.The Pie charts show that the gender of the mice in this study was separated equally between male and female .
 
 3. The mice who weighed more did have a larger tumor volume.
+
+module 5 sources: Tutor Brandon, xpert learning assistant. 
